@@ -90,8 +90,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next 
-
+# theme: next 
+theme: landscape-plus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
@@ -104,4 +104,5 @@ deploy:
 auto_excerpt:
   enable: false
   length: 150
-  
+
+mathjax: true
