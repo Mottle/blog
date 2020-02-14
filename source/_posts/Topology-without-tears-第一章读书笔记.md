@@ -159,11 +159,11 @@ example
 
 If $\mathbb{N}$ is the set of all positive integers, then sets such as 
 
-$\{1\}$, $\{5,6,7\}$, $\{2,4,6,8\}$
+$$\{1\}, \{5,6,7\}, \{2,4,6,8\}$$
 
 are finite and hence closed in the finite-closed topology. Thus their complements
 
-$\{2,3,4,5,...\}$, $\{1,2,3,4,8,9,10,...\}$, $\{1,3,5,7,9,10,11,...\}$
+$$\{2,3,4,5,...\}, \{1,2,3,4,8,9,10,...\}, \{1,3,5,7,9,10,11,...\}$$
 
 are open sets in the finite-closed topology.
 
@@ -171,7 +171,7 @@ are open sets in the finite-closed topology.
 >
 >(i) The function $f$ is said to be one-to-one or **injective** if $f(x_1) = f(x_2)$ implies $x_1 = x_2$, for $x_1,x_2 \in X$;
 >
->(ii) The function $f$ is said to be onto or **surjective** if for each $y \in Y$ there exists an x∈X such that $f(x)=y$;
+>(ii) The function $f$ is said to be onto or **surjective** if for each $y \in Y$ there exists an $x\in X$ such that $f(x)=y$;
 >
 >(iii) The function $f$ is said to be **bijective** if it is both one-to-one and onto.
 
@@ -196,9 +196,7 @@ A **one-to-one function** is a function that **maps different points to differen
 >Definition 1.3.5 
 >
 >Let $f$ be a function from a set $X$ into a set $Y$. If S is any subset of $Y$ , then the set $f^{-1}(S)$ is defined by
->
->$f^{-1}(S)=\{x:x \in X~~and~~f(x) \in S\}$
->
+>$$f^{-1}(S)=\{x:x \in X~~and~~f(x) \in S\}$$
 >The subset $f^{-1}(S)$ of $X$ is said to be the inverse image of $S$.
 
 Note that an inverse function of $f : X \to Y$ exists if and only if $f$ is bijective. But the inverse image of any subset of $Y$ exists even if $f$ is neither one-to-one nor onto.
