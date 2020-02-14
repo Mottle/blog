@@ -63,7 +63,7 @@ Proposition 2.2.3 told us under what conditions a collection $\mathcal{B}$ of su
 
 We have seen that a topology can have many different bases. The next proposition tells us when two bases $\mathcal{B}_1$ and $\mathcal{B}_2$ on the set $X$ define the same topology.
 
->Proposition 2.3.4
+>Proposition 2.3.3
 >
 >Let $\mathcal{B}_1$ and $\mathcal{B}_2$ be bases for topologies $\tau_1$ and $\tau_2$, respectively, on a non-empty set $X$. Then $\tau_1 = \tau_2$ if and only if
 >
